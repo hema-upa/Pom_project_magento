@@ -1,0 +1,10 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [C:\Users\amit2\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+INFO     CreateAccount:basepage.py:27 Performing an action on the base page.
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [C:\Users\amit2\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+INFO     LoginPage:basepage.py:27 Performing an action on the base page.
